@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #0926d4;
+    font-weight: bolder;
+}
+.logo{
+    height: 100px;
+    background-color: #ff4c4c;
+    color: rgb(0, 0, 0);
+}
+.menu{
+    background-color: #4cff4c;
+    height: 50px;
+}
+.middleContainer{
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+.rightContainer{
+    width: 50%;
+    height: 537px;
+    background-color: #ff4cff;
+}
+.publicidad1{
+    background-color: #ffcaff;
+    height: 250px;
+    width: 80%;
+    margin: 10px auto 5px auto;
+}
+.publicidad2{
+    background-color: #ffcaff;
+    height: 250px;
+    width: 80%;
+    margin: 10px auto 5px auto;
+}
+.leftContainer{
+    width: 49.4%;
+    float: left;
+    background-color: #ffff4c;
+    clear: left;
+    height: 536px;
+}
+.rightContainer{
+    width: 50%;
+    float: right;
+    position: relative;
+    z-index: 2;
+}
+.slider{
+    width: 102%;
+    background-color: #17caff;
+    height: 35%;
+    float: left;
+}
+.leftContainerList{
+    width: 100%;
+    background-color: #f8ee52;
+    height: 13.5%;
+    padding: 4px 7px 10px 4px;
+    clear: both;
+}
+.fix {
+    padding-top: 5px;
+}
+.imagenLeft{
+    width: 50%;
+    float: left;
+    height: 100%;
+    background-color: #f0a9d4
+}
+.imagenRight{
+    width: 50%;
+    float: right;
+    height: 100%;
+}
+.titulo{
+    width: 100%;
+    background-color: #4c4c3c;
+    height: 35%;
+}
+.info{
+    width: 100%;
+    background-color: #924c3c;
+    height: 65%;
+    color: rgb(0, 0, 0);
+}
+.bottomContainer{
+    height: 102px;
+    background-color: #ffcaca;
+    width: 100%;
+    clear: both;
+}
+.leftBottom{
+    width: 50%;
+    float: left;
+    height: 103px;
+    background-color: #ffcaca;
+}
+.menu2{
+    background-color: #caefba;
+    height: 100px;
+    width: 80%;
+    margin: 2px auto 1px auto;
+}
+.rightBottom{
+    background-color: #cabaef;
+    height: 90px;
+    width: 50%;
+    float: right;
+    padding: 7px 0 5px 0;
+}
+.facebook{
+    background-color: #823747;
+    width: 25%;
+    height: 90px;
+    float: right;
+    margin-right: -4px;
+}
+.instagram{
+    background-color: #c83747;
+    width: 25%;
+    height: 90px;
+    float: right;
+    margin-right: -4px;
+}
+.twitter{
+    background-color: #5f3747;
+    width: 25%;
+    height: 90px;
+    float: right;
+    margin-right: -4px;
+}
+.google{
+    background-color: #ef3747;
+    width: 25%;
+    height: 90px;
+    float: right;
+    margin-right: -4px;
+}
+.copyright{
+    background-color: #cababa;
+    height: 40px;
+    clear: both;
+    color: rgb(0, 0, 0);
+}
+.google{
+    margin-right: 5px;
+}
